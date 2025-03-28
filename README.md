@@ -35,7 +35,10 @@ cd  hackershhh-website
 
 Thanks to these amazing people for their contributions:  
 
-[![Contributors](https://img.shields.io/github/contributors/eduolihez/hackershhh-website?style=flat-square)](https://github.com/eduolihez/hackershhh-websitegraphs/contributors)  
+[![Contributors](https://img.shields.io/github/contributors/eduolihez/hackershhh-website?style=flat-square)](https://github.com/eduolihez/hackershhh-websitegraphs/contributors)
+
+[@Fenark43](https://github.com/Fenark43)
+[@eduolihez](https://github.com/eduolihez)
 
 ### How to Contribute  
 1. Fork the repository  
