@@ -1,0 +1,8 @@
+# Global owners (both contributors review all changes)
+*       @eduolihez @Fenark43
+
+# Specific ownership
+/legal/            @eduolihez    # Legal docs
+/docs/             @eduolihez    # Documentation
+/js/               @eduolihez    # JavaScript files
+/css/              @eduolihez    # Stylesheets
