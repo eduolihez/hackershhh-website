@@ -1,0 +1,20 @@
+# OS/Editor
+.DS_Store
+Thumbs.db
+*.sublime-*
+
+# Dependencies
+/node_modules
+/.cache
+
+# Local dev
+.env
+*.log
+
+# Build artifacts
+/dist
+*.tmp
+
+# Images
+*.psd
+*.ai
