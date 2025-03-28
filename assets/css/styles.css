@@ -75,7 +75,8 @@ body {
     color: var(--color-surface);
 }
 
-/* Botón tema */
+
+/* Botón tema 
 .theme-toggle {
     background: none;
     border: 2px solid var(--color-primary);
@@ -91,6 +92,7 @@ body {
     background-color: var(--color-primary);
     color: var(--color-surface);
 }
+*/
 
 /* Contenido principal */
 main {

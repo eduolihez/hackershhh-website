@@ -8,22 +8,26 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
+    <!--Ni idea de lo que hace pero mejora la accesibilidad: https://webaim.org/techniques/skipnav/-->
     <a href="#main-content" class="skip-link">Saltar al contenido</a>
 
     <header class="header">
-        <img src="/assets/img/logo.png" alt="Logo Hackershhh" class="logo">
+        <a href="index.html"><img src="/assets/img/logo.png" alt="Logo Hackershhh" class="logo"></a>
         
         <nav class="nav">
             <ul>
-                <li><a href="#inicio">Inicio</a></li>
-                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#main-content">Inicio</a></li>
+                <li><a href="/pages/nosotros.html">Sobre Nosotros</a></li>
+                <li><a href="/pages/servicios.html">Servicios</a></li>
                 <li><a href="/pages/contacto.html">Contacto</a></li>
             </ul>
         </nav>
 
+        <!--
         <button class="theme-toggle" aria-label="Cambiar tema">
             <i class="fas fa-moon"></i>
         </button>
+        -->
     </header>
 
     <main id="main-content">
@@ -31,7 +35,7 @@
     </main>
 
     <footer class="footer">
-        <p>&copy; 2025 Ni Que Fueramos Hackershhh</p>
+        <p>&copy; 2025 Ni Que Fueramos Hackershhh | Powered By <a href="https://linkedin.com/in/eduolihez">Edu Olivares</a> & <a href="https://linkedin.com/in/jonathan-arnau">Jonathan Arnau</a></p>
     </footer>
 
     <script src="/assets/js/script.js"></script>
